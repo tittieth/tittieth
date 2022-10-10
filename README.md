@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tittieth
+- 👋 Hi, I’m Tittie 
 - 🌱 I’m currently a front end developer student @medieinstitutet
 
 <!---
