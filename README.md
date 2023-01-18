@@ -1,5 +1,5 @@
-👋 Hi, I’m Tittie and I’m 34 years old <br>
-🏡 Lives in Höör , Sweden<br>
+👋 Hi, I’m Tittie<br>
+🏡 Lives in Lund , Sweden<br>
 🎓 I’m currently a front end developer student @medieinstitutet<br>
 📷 I love to take pictures and freelance a little bit as a photographer
 
