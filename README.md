@@ -1,5 +1,4 @@
 👋 Hi, I’m Tittie<br>
-🏡 Lives in Lund , Sweden<br>
 🎓 I’m currently a front end developer student @medieinstitutet<br>
 📷 I love to take pictures and freelance a little bit as a photographer
 
